@@ -4,7 +4,7 @@ class public Hello
     {
         for(int i=0;i<=15;i++)
         {
-            System.out.print("HELLO-Everyone");
+            System.out.println("HELLO-Everyone" + i );
             System.out.println("Wel-Come to ALLSTATE")
         }
     }

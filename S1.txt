@@ -1,2 +1,3 @@
+DELETE QUERY
 delete from employee
 where empid=10;
