@@ -7,6 +7,7 @@ class public Hello
             System.out.print("HELLO-Everyone");
             System.out.println("Wel-Come to ALLSTATE");
             System.out.println("Wel-Come");
+               System.out.println("HELLO");
         }
     }
 }
